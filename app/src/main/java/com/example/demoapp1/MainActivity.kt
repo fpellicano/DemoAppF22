@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // TODO: Write some okay code
         // TODO: Fix issues with previous xml file
+
+        thjdghj
+        fjfg
+
     }
 }
