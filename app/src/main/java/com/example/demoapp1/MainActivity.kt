@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // TODO: Write some okay code
+        // TODO: Fix issues with previous xml file
     }
 }
